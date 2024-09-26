@@ -1,4 +1,4 @@
-# PEmail Spam Classification
+# Email Spam Classification
 
 The project focuses on conducting Email Classification. It is a binary classification problem. The primary objective of this project is to classify an email into the spam or not spam. 
 
